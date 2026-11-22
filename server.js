@@ -47,6 +47,10 @@ http.createServer(async (req, res) => {
       res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
       return fs.createReadStream(HTML).pipe(res);
     }
+    if (req.method === 'GET' && url.pathname === '/logo.svg') { // logo: giriş ekranı ve sekme simgesi
+      res.writeHead(200, { 'Content-Type': 'image/svg+xml', 'Cache-Control': 'max-age=86400' });
+      return fs.createReadStream(path.join(__dirname, 'public', 'logo.svg')).pipe(res);
+    }
     const sesi = req.method === 'GET' && url.pathname.match(/^\/sounds\/([a-z0-9-]+\.mp3)$/); // oyun sesleri ve müzik
     if (sesi) {
       const f = path.join(__dirname, 'public', 'sounds', sesi[1]);

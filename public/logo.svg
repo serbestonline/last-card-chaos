@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 150" role="img" aria-label="Last Card Chaos">
+  <title>Last Card Chaos</title>
+  <g transform="translate(110 76)">
+    <rect x="-26" y="-40" width="52" height="78" rx="7" fill="#e53935" stroke="#fff" stroke-width="3" transform="rotate(-30) translate(-14 -8)"/>
+    <rect x="-26" y="-40" width="52" height="78" rx="7" fill="#1e78e0" stroke="#fff" stroke-width="3" transform="rotate(-10) translate(-4 -12)"/>
+    <rect x="-26" y="-40" width="52" height="78" rx="7" fill="#2e9e4f" stroke="#fff" stroke-width="3" transform="rotate(10) translate(4 -12)"/>
+    <rect x="-26" y="-40" width="52" height="78" rx="7" fill="#f2b200" stroke="#fff" stroke-width="3" transform="rotate(30) translate(14 -8)"/>
+  </g>
+  <g transform="rotate(-7 110 90)" font-family="'Arial Black', 'Arial', 'Helvetica Neue', sans-serif" font-weight="900" font-style="italic" text-anchor="middle" paint-order="stroke" stroke="#14161c" stroke-linejoin="round">
+    <text x="110" y="82" font-size="26" fill="#fff" stroke-width="7">LAST CARD</text>
+    <text x="110" y="120" font-size="40" fill="#fff" stroke-width="9">CHAOS</text>
+  </g>
+</svg>

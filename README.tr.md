@@ -1,3 +1,5 @@
+<p align="center"><img src="public/logo.svg" alt="Last Card Chaos" width="380"></p>
+
 # Last Card Chaos
 
 🇬🇧 [English](README.md)

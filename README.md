@@ -1,3 +1,5 @@
+<p align="center"><img src="public/logo.svg" alt="Last Card Chaos" width="380"></p>
+
 # Last Card Chaos
 
 A fast, chaotic color-matching card game for **2 to 4 players**, played in the browser on your phones. One person runs a tiny server on their computer; everyone else just opens a link. No accounts, no app store, no dependencies.
