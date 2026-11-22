@@ -1,10 +1,23 @@
-<p align="center"><img src="public/logo.svg" alt="Last Card Chaos" width="380"></p>
+<p align="center">
+  <img src="public/logo.svg" width="320" alt="Last Card Chaos logosu">
+</p>
 
-# Last Card Chaos
+<h1 align="center">Last Card Chaos</h1>
 
-🇬🇧 [English](README.md)
+<p align="center">
+  <b>Rengi eşle. Kaostan sağ çık. Elini ilk sen bitir.</b><br>
+  Telefonlarda tarayıcıdan oynanan, 2 ile 4 kişilik bir renk eşleme kart oyunu. Bir kişi küçük bir sunucu çalıştırır, diğerleri yalnız bir link açar.
+</p>
 
-Telefonlarda tarayıcıdan oynanan, **2 ile 4 kişilik**, hızlı ve kaotik bir renk eşleme kart oyunu. Bir kişi kendi bilgisayarında küçük bir sunucu çalıştırır, diğerleri yalnız bir link açar. Hesap, uygulama mağazası ya da ek kurulum yok.
+<p align="center">
+  <a href="README.md">English</a> · <b>Türkçe</b>
+</p>
+
+<p align="center">
+  <img src="docs/flow.gif" width="864" alt="Bir elin oynanışı, bir oyuncuda duran kaos çarkı ve emoji yağmurlu ceza gösterisi">
+</p>
+
+---
 
 ## Neler var
 
@@ -14,16 +27,6 @@ Telefonlarda tarayıcıdan oynanan, **2 ile 4 kişilik**, hızlı ve kaotik bir 
 - Geri sayımlı 15 saniyelik sıralar, unutursan yakalandığın "Tek!" çağrısı, arkadaşlarına fırlatabileceğin emojiler
 - Animasyonlar, sesler, arka plan müziği ve el sonu ödülleri
 - Türkçe ve İngilizce arayüz
-
-## Oynanış
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/gameplay.gif" width="240" alt="Oyuncular arasında uçan kartlar"><br><sub>Bir el oynanırken</sub></td>
-    <td align="center"><img src="docs/chaos-wheel.gif" width="240" alt="Dönen kaos çarkı"><br><sub>Kaos çarkı</sub></td>
-    <td align="center"><img src="docs/penalty.gif" width="240" alt="Ceza çekenle dalga geçen emoji yağmuru"><br><sub>Biri ceza çekince</sub></td>
-  </tr>
-</table>
 
 ## Hızlı başlangıç
 

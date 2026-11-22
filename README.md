@@ -1,10 +1,23 @@
-<p align="center"><img src="public/logo.svg" alt="Last Card Chaos" width="380"></p>
+<p align="center">
+  <img src="public/logo.svg" width="320" alt="Last Card Chaos logo">
+</p>
 
-# Last Card Chaos
+<h1 align="center">Last Card Chaos</h1>
 
-A fast, chaotic color-matching card game for **2 to 4 players**, played in the browser on your phones. One person runs a tiny server on their computer; everyone else just opens a link. No accounts, no app store, no dependencies.
+<p align="center">
+  <b>Match the color. Survive the chaos. Empty your hand first.</b><br>
+  A color-matching card game for 2 to 4 players, played in the browser on your phones. One person runs a tiny server; everyone else just opens a link.
+</p>
 
-🇹🇷 [Türkçe](README.tr.md)
+<p align="center">
+  <b>English</b> · <a href="README.tr.md">Türkçe</a>
+</p>
+
+<p align="center">
+  <img src="docs/flow.gif" width="864" alt="Playing a hand, the chaos wheel landing on a player, and a penalty with emoji rain">
+</p>
+
+---
 
 ## Features
 
@@ -14,16 +27,6 @@ A fast, chaotic color-matching card game for **2 to 4 players**, played in the b
 - 15-second turns with a countdown, "Last card!" calls you can get caught on, emoji reactions you can throw at friends
 - Animations, sounds, background music and end-of-hand awards
 - Turkish and English interface
-
-## Gameplay
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/gameplay.gif" width="240" alt="Cards flying between players"><br><sub>Playing a hand</sub></td>
-    <td align="center"><img src="docs/chaos-wheel.gif" width="240" alt="Chaos wheel spinning"><br><sub>The chaos wheel</sub></td>
-    <td align="center"><img src="docs/penalty.gif" width="240" alt="Penalty taunt with emoji rain"><br><sub>Someone draws a penalty</sub></td>
-  </tr>
-</table>
 
 ## Quick start
 
