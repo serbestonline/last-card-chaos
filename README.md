@@ -15,6 +15,16 @@ A fast, chaotic color-matching card game for **2 to 4 players**, played in the b
 - Animations, sounds, background music and end-of-hand awards
 - Turkish and English interface
 
+## Gameplay
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/gameplay.gif" width="240" alt="Cards flying between players"><br><sub>Playing a hand</sub></td>
+    <td align="center"><img src="docs/chaos-wheel.gif" width="240" alt="Chaos wheel spinning"><br><sub>The chaos wheel</sub></td>
+    <td align="center"><img src="docs/penalty.gif" width="240" alt="Penalty taunt with emoji rain"><br><sub>Someone draws a penalty</sub></td>
+  </tr>
+</table>
+
 ## Quick start
 
 You need [Node.js](https://nodejs.org) 18 or newer. Nothing else to install.

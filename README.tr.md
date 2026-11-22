@@ -15,6 +15,16 @@ Telefonlarda tarayıcıdan oynanan, **2 ile 4 kişilik**, hızlı ve kaotik bir 
 - Animasyonlar, sesler, arka plan müziği ve el sonu ödülleri
 - Türkçe ve İngilizce arayüz
 
+## Oynanış
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/gameplay.gif" width="240" alt="Oyuncular arasında uçan kartlar"><br><sub>Bir el oynanırken</sub></td>
+    <td align="center"><img src="docs/chaos-wheel.gif" width="240" alt="Dönen kaos çarkı"><br><sub>Kaos çarkı</sub></td>
+    <td align="center"><img src="docs/penalty.gif" width="240" alt="Ceza çekenle dalga geçen emoji yağmuru"><br><sub>Biri ceza çekince</sub></td>
+  </tr>
+</table>
+
 ## Hızlı başlangıç
 
 [Node.js](https://nodejs.org) 18 ya da daha yenisi yeterli; başka bir şey kurmak gerekmez.
