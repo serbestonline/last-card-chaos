@@ -1,0 +1,4 @@
+# Oyun kaydı: oyuncu adlarını ve elleri içerir / game save: contains player names and hands
+masa.json
+node_modules/
+.DS_Store
